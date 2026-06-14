@@ -1,23 +1,34 @@
-# Super-Market-Billing-system-Python🚀 Excited to share that I have completed my **Python Beginner Project – Super Market Billing System!**
+# Super-Market-Billing-system-Python
+🚀 Excited to share that I have completed my **Python Beginner Project – Super Market Billing System!**
 
-This command-line application allows users to:
-✅ Enter customer details
-✅ Add multiple products
-✅ Calculate item-wise totals
-✅ Apply discounts based on purchase amount
-✅ Calculate GST automatically
-✅ Generate a professional itemized bill with date and time
+A simple command-line based Super Market Billing System built using Python.
 
-Through this project, I gained hands-on experience with:
-🔹 Python Basics
-🔹 Variables & Data Types
-🔹 Input/Output Operations
-🔹 Conditional Statements
-🔹 Loops
-🔹 Lists
-🔹 Functions
-🔹 Problem Solving & Logic Building
-
-This project is an important milestone in my journey toward becoming a Data Analyst and improving my Python programming skills. Looking forward to building more real-world projects and continuously learning!
+Features
+Customer name input
+Multiple product entry
+Automatic bill calculation
+Discount based on purchase amount
+GST calculation
+Date and time display
+Itemized bill generation
+User-friendly terminal interface
+Technologies Used
+Python 3
+VS Code / Jupyter Notebook
+Python Concepts Used
+Variables & Data Types
+Input / Output
+Conditional Statements
+Loops
+Lists
+Functions
+Arithmetic Operators
+String Formatting
+Future Improvements
+Save bill to a text file.
+Add product database.
+Generate PDF invoice.
+Build GUI version using Tkinter.
+Connect with a database (SQLite/MySQL).
 
 #Python #PythonProgramming #DataAnalytics #Coding #BeginnerProject #LearningByDoing #Programming #OpenToWork
